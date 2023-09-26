@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farajshuaib" alt="farajshuaib" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/faraj_shuaib" target="blank"><img src="https://img.shields.io/twitter/follow/faraj_shuaib?logo=twitter&style=for-the-badge" alt="faraj_shuaib" /></a> </p>
-
-- 💬 Ask me about **CSS, TS, React,Vue, Angular, React Native**
+- 💬 Ask me about **TS, React, Vue, Angular, React Native**
 
 - 📫 How to reach me **farajshuaib@gmail.com**
 
