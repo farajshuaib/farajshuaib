@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farajshuaib&label=Profile%20views&color=0e75b6&style=flat" alt="farajshuaib" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farajshuaib" alt="farajshuaib" /></a> </p>
-
 - 💬 Ask me about **TS, React,Vue, Angular, React Native**
 
 - 📫 How to reach me **farajshuaib@gmail.com**
@@ -30,8 +28,3 @@
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="asp.net core" width="40" height="40"/> </a> 
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farajshuaib&show_icons=true&locale=en&layout=compact" alt="farajshuaib" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farajshuaib&show_icons=true&locale=en" alt="farajshuaib" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farajshuaib&" alt="farajshuaib" /></p>
